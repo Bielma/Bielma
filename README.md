@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center" A computer science student and passionate about mobile developer and Data Science</h3>
+<h3 align="center">A passionate mobile developer from Mexico</h3>
+<h3 align="center">A computer science student and passionate about mobile developer and Data Science </h3>
 
 
 
